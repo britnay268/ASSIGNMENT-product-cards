@@ -1,3 +1,33 @@
-body {
-  background-color: aquamarine;
+.card-title {
+  padding-bottom: 10px;
+  border-bottom: lightblue solid 1px;
+  text-align: center;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+}
+
+.card-text {
+  text-align: justify;
+  padding: 16px;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+footer {
+  padding-bottom: 20px;
+}
+
+.availability {
+  width: 100%;
+  background: darkgrey;
+  color: yellow;
+}
+
+.card-body {
+  padding: 0px;
 }
